@@ -1,0 +1,1 @@
+{"virtualbox":{"/vagrant/web1":{"guestpath":"/vagrant/web1","hostpath":"C:/Users/wesly/OneDrive/Escritorio/Practica-Vagrant1/web1","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/wesly/OneDrive/Escritorio/Practica-Vagrant1","disabled":false,"__vagrantfile":true}}}
